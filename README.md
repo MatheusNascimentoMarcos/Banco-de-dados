@@ -1,2 +1,2 @@
 # Banco-de-dados
-Criação de um banco de dados.
+Ativadade de criação de um banco de dados.Onde foi escolhido a criação de um banco de dados voltado para informações relativas ao game League of Legends e onde foi criado toda a estrutura desde a modelagem até a implementação do schemma do banco, além da criação de otimizações das conusltas , funções/triggers , views e tipos de usuário que iriam acessar as informações do banco criado.
